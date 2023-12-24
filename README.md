@@ -1,6 +1,6 @@
 # Cryptography
 
-<img src="crypt.jpeg" width="100%">
+<img src="crypt.png" width="100%">
 
 Welcome to the Cryptography repository! This repository contains Python codes for common cryptographic ciphers.
 
