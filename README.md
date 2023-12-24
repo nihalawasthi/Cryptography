@@ -1,6 +1,8 @@
 # Cryptography
 Welcome to the Cryptography repository! This repository contains Python codes for common cryptographic ciphers.
 
+<img src="crypt.jpeg">
+
 <h2>Purpose</h2>
 This repository aims to provide a collection of Python implementations for various cryptographic ciphers, catering to beginners and enthusiasts alike. It serves as a practical resource for exploring and understanding the fundamentals of cryptography.
 <hr>
