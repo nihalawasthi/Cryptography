@@ -1,4 +1,4 @@
-# Cryptography 
+# Cryptography
 
 ![Cryptography: Unlocking the Secrets](crypt.png)
 
