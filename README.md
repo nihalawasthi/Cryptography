@@ -14,7 +14,7 @@ Within this repository, you'll discover a treasure trove of cryptographic implem
 
 - **Capstone Project:** A comprehensive exploration of cryptography concepts and techniques.
 - **Cipher Implementations:**
-
+  
 * **Classical Ciphers:**
    * 4 Bit by Bit Gate Diagram Operation
    * Caesar Cipher
